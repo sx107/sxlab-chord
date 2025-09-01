@@ -1,0 +1,10 @@
+midi.c:21:6:midi_configure	8	static
+midi.c:46:9:midi_is_connected	0	static
+midi.c:118:6:_midi_push_note	12	static
+midi.c:126:6:_midi_pop_note	8	static
+midi.c:146:6:midi_stack_clear	8	static
+midi.c:154:9:midi_get_monophonic	0	static
+midi.c:159:6:handle_midi_message	16	static
+midi.c:50:6:USART1_IRQHandler	16	static
+midi.c:184:6:midi_panic	8	static
+midi.c:191:6:midi_reset	8	static

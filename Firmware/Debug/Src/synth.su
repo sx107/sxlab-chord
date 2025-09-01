@@ -1,0 +1,8 @@
+synth.c:61:6:synth_load_preset	64	static
+synth.c:101:6:synth_save_preset	56	static
+synth.c:127:6:synth_set_pb	0	static
+synth.c:130:6:synth_set_mod	0	static
+synth.c:134:6:synth_set_cc	0	static
+synth.c:138:6:synth_reset_midi	0	static
+synth.c:147:6:synth_update	16	static
+synth.c:177:6:synth_process	56	static

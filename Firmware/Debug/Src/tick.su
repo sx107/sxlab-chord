@@ -1,0 +1,3 @@
+tick.c:19:6:tick_configure	0	static,ignoring_inline_asm
+tick.c:51:6:tick_but_command	16	static
+tick.c:179:6:TIM17_IRQHandler	24	static

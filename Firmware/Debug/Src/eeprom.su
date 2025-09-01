@@ -1,0 +1,7 @@
+eeprom.c:13:9:eeprom_read8	8	static
+eeprom.c:21:9:eeprom_write8	16	static
+eeprom.c:29:9:eeprom_write16	16	static
+eeprom.c:37:10:eeprom_read16	16	static
+eeprom.c:48:9:eeprom_write_buffer	16	static
+eeprom.c:61:9:eeprom_read_buffer	16	static
+eeprom.c:68:9:eeprom_wait_available	16	static,ignoring_inline_asm

@@ -1,0 +1,2 @@
+adc.c:12:6:adc_configure	8	static,ignoring_inline_asm
+adc.c:81:6:ADC1_2_IRQHandler	12	static

@@ -1,0 +1,6 @@
+butled.c:21:6:butled_configure	24	static
+butled.c:71:6:butled_on	0	static
+butled.c:75:6:butled_off	0	static
+butled.c:79:9:but_check	0	static
+butled.c:83:6:but_update	8	static
+butled.c:92:9:but_released	0	static

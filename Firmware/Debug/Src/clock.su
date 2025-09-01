@@ -1,0 +1,2 @@
+clock.c:12:6:clock_configure	8	static,ignoring_inline_asm
+clock.c:60:6:_delayMs	0	static

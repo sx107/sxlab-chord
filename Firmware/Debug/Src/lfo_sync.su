@@ -1,0 +1,8 @@
+lfo_sync.c:18:6:lfo_sync_configure	8	static,ignoring_inline_asm
+lfo_sync.c:43:6:lfo_sync_start	0	static
+lfo_sync.c:53:6:lfo_sync_stop	8	static
+lfo_sync.c:60:6:lfo_sync_continue	0	static
+lfo_sync.c:64:6:lfo_sync_tick	16	static,ignoring_inline_asm
+lfo_sync.c:85:10:lfo_sync_value	0	static
+lfo_sync.c:98:6:lfo_sync_process	0	static
+lfo_sync.c:102:6:TIM14_IRQHandler	0	static
